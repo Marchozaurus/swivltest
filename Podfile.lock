@@ -1,0 +1,24 @@
+PODS:
+  - HTTPStatusCodes (3.2.0)
+  - Kingfisher (4.8.1)
+  - RxSwift (4.2.0)
+
+DEPENDENCIES:
+  - HTTPStatusCodes
+  - Kingfisher
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HTTPStatusCodes
+    - Kingfisher
+    - RxSwift
+
+SPEC CHECKSUMS:
+  HTTPStatusCodes: 69f50d229c4b5d6dcb48fad9c86e32ded975bcd3
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+
+PODFILE CHECKSUM: d7377698ddc5b6ce725693ff1b51632a930d3e64
+
+COCOAPODS: 1.5.3
